@@ -9,6 +9,8 @@ class song
   def artist (artist)
     @artist_name = artist
     
+    @@ artist_count =+ 1
+    
   end
   
   def genre
