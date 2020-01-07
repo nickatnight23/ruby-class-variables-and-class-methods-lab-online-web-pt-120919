@@ -4,6 +4,7 @@ class song
   
   def initialize 
     @@song_count += 1
+  end
   
   def artist (artist)
     @artist_name = artist
