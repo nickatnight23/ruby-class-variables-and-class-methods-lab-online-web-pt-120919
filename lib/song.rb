@@ -4,3 +4,5 @@ class song
   
   def artist ()
     @artist= artist
+    
+  end
