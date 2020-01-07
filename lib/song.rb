@@ -6,3 +6,5 @@ class song
     @artist_name = artist
     
   end
+  
+  def genre
