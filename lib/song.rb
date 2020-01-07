@@ -1,4 +1,4 @@
 class song
   
-  @@song = 0
+  @@song_count = 0
   
