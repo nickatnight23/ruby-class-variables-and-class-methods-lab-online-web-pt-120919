@@ -8,3 +8,5 @@ class song
   end
   
   def genre
+    @genre = genre
+  end
