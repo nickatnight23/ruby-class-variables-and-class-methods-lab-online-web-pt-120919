@@ -17,3 +17,4 @@ class song
   def genre
     @genre = genre
   end
+end
